@@ -382,6 +382,7 @@ img {
   margin-bottom: 0.25rem;
 }
 
+
 .scrolltop {
   position: fixed;
   right: 1rem;
@@ -441,6 +442,7 @@ img {
   .resume_left,
   .resume_right {
     padding: 0 1.5rem;
+    margin-right: 30px;
   }
 
   .generate-pdf {
